@@ -2,5 +2,5 @@
 ## Title: AutoCarrot 2025
 ## Notes: Automatically equips Carrot on a Stick or Riding Crop when mounted.
 ## Version: 3.02
-## Author: kebabstorm (2025 update by ChatGPT)
+## Author: kebabstorm (2025 update by Happy Keanu / ChatGPT)
 AutoCarrot.lua
