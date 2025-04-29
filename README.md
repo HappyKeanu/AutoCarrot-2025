@@ -21,24 +21,26 @@ This is an updated version for Season of Discovery (SoD) and WotLK Classic, base
 
 ---
 
-## 🔧 Slash Commands
+## 🧭 Usage
 
-```
-/ac enabled 0/1/toggle         -- Enable or disable AutoCarrot
-/ac ridingGloves 0/1          -- Use riding gloves
-/ac mithrilSpurs 0/1          -- Use spurs
-/ac swimBelt 0/1              -- Use swim belt
-/ac swimHelm 0/1              -- Use diving helmet
-/ac instance 0/1              -- Auto-disable in instances
-/ac button 0/1/reset/scale    -- Show/hide/move the toggle button
-```
+Type `/ac` or `/autocarrot` in-game to use the following commands:
+
+- `/ac enabled 0/1/toggle` – Enable/disable AutoCarrot
+- `/ac ridingGloves 0/1` – Toggle equipping riding gloves
+- `/ac mithrilSpurs 0/1` – Toggle equipping boots with Mithril Spurs
+- `/ac swimBelt 0/1` – Toggle Azure Silk Belt for swimming
+- `/ac swimHelm 0/1` – Toggle Deepdive Helmet for underwater breathing
+- `/ac instance 0/1` – Auto-disable in dungeons, raids, battlegrounds, arenas
+- `/ac button 0/1/reset/scale` – Toggle/move/scale the AutoCarrot toggle button
+
+> 🖱️ **Tip:** Hold ALT and drag the button to move it on your screen.
 
 ---
 
 ## 📦 Installation
 
 1. Download the ZIP.
-2. Extract the contents to your `_classic_era_/Interface/AddOns/` folder.
+2. Extract the contents to your `_classic_era_/Interface/AddOns/AutoCarrot` folder.
 3. Launch WoW and ensure "AutoCarrot 2025" is enabled in the AddOns menu.
 
 ---
@@ -55,7 +57,7 @@ This is an updated version for Season of Discovery (SoD) and WotLK Classic, base
 ## 🛠️ Credits
 
 Original Addon: **kebabstorm**  
-2025 Update & Fixes: **HappyKeanu / ChatGPT / OpenAI**
+2025 Update & Fixes: **ChatGPT / OpenAI**
 
 License: [MIT](LICENSE)
 
